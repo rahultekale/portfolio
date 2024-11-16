@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40e6e137.css",
+    "main.js": "/static/js/main.fedc7798.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/photo.jpg": "/static/media/photo.3e8deefd712b2c21e14b.jpg",
+    "static/media/backg.png": "/static/media/backg.70fd20b1741031565259.png",
+    "static/media/tik-tak-toe-game.png": "/static/media/tik-tak-toe-game.8eac882d94e5762bd6be.png",
+    "static/media/remitout-clone.jpg": "/static/media/remitout-clone.6358338065486e4a9ad4.jpg",
+    "static/media/Travelling-image.jpg": "/static/media/Travelling-image.6c01de287a40ff772977.jpg",
+    "static/media/Linkdin.png": "/static/media/Linkdin.27274b9416246a35e253.png",
+    "static/media/Youtube.png": "/static/media/Youtube.957df447893e27a27a4e.png",
+    "index.html": "/index.html",
+    "main.40e6e137.css.map": "/static/css/main.40e6e137.css.map",
+    "main.fedc7798.js.map": "/static/js/main.fedc7798.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e6e137.css",
+    "static/js/main.fedc7798.js"
+  ]
+}
